@@ -14,7 +14,7 @@ const CONFIG = {
   HERO_TITLE_2: '',
   HERO_TITLE_3: '',
   HERO_TITLE_4: '',
-  HERO_TITLE_5: '但愿世间无早八',
+  HERO_TITLE_5: '',
   HERO_TITLE_LINK: 'https://montylee.cc',
 
   // 英雄区显示三个置顶分类
