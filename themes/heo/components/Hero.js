@@ -304,7 +304,7 @@ function getTopPosts({ latestPosts, allNavPages }) {
 function TodayCard({ cRef }) {
   const router = useRouter()
   // 卡牌是否盖住下层
-  const [isCoverUp, setIsCoverUp] = useState(true)
+  const [isCoverUp, setIsCoverUp] = useState(false)
 
   /**
    * 外部可以调用此方法
