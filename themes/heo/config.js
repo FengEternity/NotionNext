@@ -28,10 +28,13 @@ const CONFIG = {
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   INFOCARD_GREETINGS: [
-    '温良',
-    '慎独',
-    '自由',
-    '从容'
+    'Python',
+    '机器学习',
+    '深度学习',
+    '图像处理',
+    'AIGC',
+    '图像修复',
+    '联邦学习'
   ],
   INFO_CARD_URL: 'https://montylee.cc', // 个人资料底部按钮链接
 
