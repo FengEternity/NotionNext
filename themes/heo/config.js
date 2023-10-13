@@ -31,10 +31,7 @@ const CONFIG = {
     '温良',
     '慎独',
     '自由',
-    '从容',
-    '',
-    '',
-    ''
+    '从容'
   ],
   INFO_CARD_URL: 'https://montylee.cc', // 个人资料底部按钮链接
 
