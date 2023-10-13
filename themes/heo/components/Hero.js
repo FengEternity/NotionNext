@@ -379,7 +379,7 @@ function TodayCard({ cRef }) {
           } cursor-pointer today-card-cover absolute w-full h-full top-0`}
           style={{
             background:
-              '/Users/montylee/Documents/GitHub/NotionNext/public/images/heo/f4561583087057.gif no-repeat center /cover'
+              "url('https://montylee-1313931661.cos.ap-nanjing.myqcloud.com/imgs/blog/202310121231193.gif') no-repeat center /cover"
           }}
         ></div>
       </div>
