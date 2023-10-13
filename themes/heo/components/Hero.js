@@ -379,7 +379,7 @@ function TodayCard({ cRef }) {
           } cursor-pointer today-card-cover absolute w-full h-full top-0`}
           style={{
             background:
-              "url('https://montylee-1313931661.cos.ap-nanjing.myqcloud.com/imgs/blog/202310131731823.png') no-repeat center /cover"
+              "url('https://montylee-1313931661.cos.ap-nanjing.myqcloud.com/imgs/blog/202310131730953.gif') no-repeat center /cover"
           }}
         ></div>
       </div>
