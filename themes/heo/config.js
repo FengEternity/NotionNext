@@ -5,8 +5,12 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '温良慎独 自由从容', url: 'https://montylee.cc' },
-    { title: 'Gentle self-discipline, positive progress, clear goals, free life.', url: 'https://montylee.cc' }
+    { title: '朝暮与岁月同行，愿你我一同行至天荒', url: 'https://montylee.cc' },
+    { title: '她的唯一罪行，就是她的美', url: 'https://montylee.cc' },
+    { title: '诗意地栖居在大地', url: 'https://montylee.cc' },
+    { title: '真正的智者，总是互相成全的', url: 'https://montylee.cc' },
+    { title: '曾经发誓，要做了不起的人', url: 'https://montylee.cc' },
+    { title: '很多人觉得自己在思考，实际上他们只是在重新整理自己的偏见', url: 'https://montylee.cc' }
   ],
 
   // 英雄区(首页顶部大卡)
